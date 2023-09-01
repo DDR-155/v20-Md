@@ -112,7 +112,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/saipulanuar/v20-Md
+git clone https://github.com/DRAS-404/v20-Md
 cd v20-Md
 npm install
 npm update
@@ -129,7 +129,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/saipulanuar/v20-Md
+git clone https://github.com/DRAS-404/v20-Md
 cd v20-Md
 yarn
 node .
